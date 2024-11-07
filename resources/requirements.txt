@@ -1,0 +1,4 @@
+matplotlib==3.9.2
+pandas==2.2.3
+pyreadstat==1.2.8
+statsmodels==0.14.4
